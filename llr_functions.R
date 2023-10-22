@@ -23,3 +23,4 @@ make_predictor_matrix <- function(x) {
 }
 
 make_predictor_matrix(1:4)
+
