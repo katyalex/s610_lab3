@@ -1,4 +1,4 @@
-
+setwd("~/Documents/GitHub/s610_lab3")
 source("llr_functions.R")
 source("test_llr.R")
 omega = 2
